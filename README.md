@@ -1,0 +1,2 @@
+# Sistema de Gestão de Biblioteca 
+Aplicação para gerir livros, leitores e operações de empréstimo e devolução. •	Registar e consultar livros e leitores; controlar a disponibilidade dos livros. •	Registar o empréstimo de livros disponíveis e a devolução de livros emprestados. •	Impedir empréstimos de livros indisponíveis, empréstimos duplicados incompatíveis com as regras definidas e devoluções inválidas. •	Validar os dados introduzidos e tratar situações de erro.
